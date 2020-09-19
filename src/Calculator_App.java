@@ -13,5 +13,9 @@ public class Calculator_App {
     	
     	System.out.println("Hello World!");
 	System.out.println("Afsani");
+	for(int i=0;i<10;i++)
+	{
+		System.out.println(i);
+	}
     }
 }
